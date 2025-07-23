@@ -1,0 +1,5 @@
+print("TASK 2: THE SPLITTER Split money between people")
+print("split money between people")
+number=int(input("enter total amount"))
+people=int(input("whats the total amount of people"))
+print("the total amount of people and money it is: ", number / people)
